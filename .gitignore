@@ -1,1 +1,15 @@
+# PDFs - not tracked in repo
 *.pdf
+
+# Python generator scripts - not tracked in repo
+generate_revision_bank.py
+generate_pdf.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
